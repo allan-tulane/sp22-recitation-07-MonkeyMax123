@@ -2,7 +2,7 @@
 ## Answers
 
 **Name:**
-Max Curl
+Max Curl and Mikey Sison
 
 
 Place all written answers from `recitation-07.md` here for easier grading.
